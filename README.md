@@ -121,3 +121,5 @@ The new baseline deliberately excludes within-stint flag counts and evaluates 20
 Verified locally: **33 automated tests passed**, dependency check passed, bundled 2025 data processing completed, training completed, CLI exports worked, and the dashboard chart/comparison were checked in the browser. Real OpenF1 historical snapshots, model estimates from session inputs, and Open-Meteo weather were verified. Paid live access still requires a token. CI has been configured but not run remotely. Original notebooks retain their historical research environment and may need path edits; they are not required for the supported workflows above.
 
 The upstream README is preserved in `docs/UPSTREAM_README.md`; original benchmark notes remain in `benchmarks.md`. PitSense starts from a project snapshot; source attribution is preserved here and in the upstream README.
+#   a i - m l  
+ 
