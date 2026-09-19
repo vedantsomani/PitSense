@@ -1,0 +1,17 @@
+f1_cache/
+*.ff1pkl
+*.sqlite
+.venv/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.py[cod]
+.pytest_cache/
+reports/
+*.log
+models/trained_*
+datasets/generated/
